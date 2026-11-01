@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "f3ce6a69a9cc452f",
+    "type": "split",
+    "children": [
+      {
+        "id": "084c334515310c56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e5a2a7e48edd426",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/1-Intro in C++.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1-Intro in C++"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7cd6bc394172e190",
+    "type": "split",
+    "children": [
+      {
+        "id": "f39b78957bdf8711",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb60445f9c86ced5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "40aac3aa14781dea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2d632eb9faa7a6c5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f815257a32f8cce5",
+    "type": "split",
+    "children": [
+      {
+        "id": "520b1b2b298982b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a2312ac750f14ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f1816ed8d578ddf1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7b9149f3e9b7f5a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d885000524212860",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "88e366147c9f6b32",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3e5a2a7e48edd426",
+  "lastOpenFiles": [
+    "Lectures/2-.md",
+    "Lectures/1-Intro in C++.md",
+    "Attachments/Pasted image 20261101125342.png",
+    "Attachments/Pasted image 20261101125122.png",
+    "Session code/Session_1/output/code.exe",
+    "Session code/Session_1/output",
+    "Session code/Session_1/code.cpp",
+    "Session code/Session_1",
+    "Session code/New folder",
+    "Session code",
+    "New folder",
+    "Attachments/Pasted image 20261029134530.png",
+    "Attachments/Pasted image 20261028151226.png",
+    "Attachments/Pasted image 20261028152357.png",
+    "Attachments/Pasted image 20261029133450.png",
+    "Attachments/Pasted image 20261028164305.png",
+    "Attachments/Pasted image 20261028163633.png",
+    "Attachments/Pasted image 20261028161915.png",
+    "Attachments/Pasted image 20261028152050.png"
+  ]
+}
