@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/1-Intro in C++.md",
+                "file": "Lectures/3-.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-Intro in C++"
+              "title": "3-"
             }
           }
         ]
@@ -187,24 +187,27 @@
   },
   "active": "3e5a2a7e48edd426",
   "lastOpenFiles": [
-    "Lectures/2-.md",
+    "Lectures/2-Important keywords in C++.md",
+    "Lectures/3-.md",
+    "Attachments/Pasted image 20261102185317.png",
+    "Attachments/Pasted image 20261102185222.png",
+    "Attachments/Pasted image 20261102185031.png",
+    "Attachments/Pasted image 20261102184925.png",
+    "Attachments/Pasted image 20261102184727.png",
+    "Attachments/Pasted image 20261102184639.png",
+    "Attachments/Pasted image 20261102184447.png",
+    "Attachments/Pasted image 20261102183436.png",
+    "Attachments/Pasted image 20261102183027.png",
+    "Attachments/Pasted image 20261102170314.png",
+    "Session code/Session_2/code.cpp",
+    "Session code/Session_2",
+    "Session code/New folder",
     "Lectures/1-Intro in C++.md",
-    "Attachments/Pasted image 20261101125342.png",
-    "Attachments/Pasted image 20261101125122.png",
     "Session code/Session_1/output/code.exe",
     "Session code/Session_1/output",
     "Session code/Session_1/code.cpp",
     "Session code/Session_1",
-    "Session code/New folder",
     "Session code",
-    "New folder",
-    "Attachments/Pasted image 20261029134530.png",
-    "Attachments/Pasted image 20261028151226.png",
-    "Attachments/Pasted image 20261028152357.png",
-    "Attachments/Pasted image 20261029133450.png",
-    "Attachments/Pasted image 20261028164305.png",
-    "Attachments/Pasted image 20261028163633.png",
-    "Attachments/Pasted image 20261028161915.png",
-    "Attachments/Pasted image 20261028152050.png"
+    "New folder"
   ]
 }
