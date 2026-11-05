@@ -35,6 +35,8 @@
 
 ### 1-Ordinary namespace
 
+في C++، الـ `namespace` لازم تتعرّف في الـ Global Scope أو جوه Namespace تانية، لكن مينفعش تعرّفها جوه Function أو Class.
+
 
 ![[Pasted image 20261101134345.png]]
 
