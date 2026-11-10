@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/5-.md",
+                "file": "Lectures/9-.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5-"
+              "title": "9-"
             }
           }
         ]
@@ -187,33 +187,34 @@
   },
   "active": "3e5a2a7e48edd426",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20261105100310.png",
-    "Attachments/Pasted image 20261105100047.png",
-    "Attachments/Pasted image 20261105095939.png",
-    "Lectures/4-Constructors & initialization list.md",
-    "Lectures/5-.md",
-    "Attachments/Pasted image 20261105092944.png",
-    "Attachments/Pasted image 20261105092642.png",
-    "Attachments/Pasted image 20261105092606.png",
-    "Attachments/Pasted image 20261105092253.png",
-    "Attachments/Pasted image 20261105092055.png",
-    "Attachments/Pasted image 20261105091638.png",
-    "Attachments/Pasted image 20261105091044.png",
-    "Attachments/Pasted image 20261105091012.png",
-    "Lectures/7-.md",
-    "Lectures/6-.md",
-    "Session code/Session_4/output/code.exe",
-    "Session code/Session_4/output",
-    "Session code/Session_4/code.cpp",
-    "Session code/Session_4",
+    "Lectures/6-Operator Overload.md",
+    "Lectures/9-.md",
+    "Attachments/Pasted image 20261110095142.png",
+    "Attachments/Pasted image 20261110095029.png",
+    "Attachments/Pasted image 20261110094738.png",
+    "Attachments/Pasted image 20261110094621.png",
+    "Attachments/Pasted image 20261110094512.png",
+    "Attachments/Pasted image 20261110094229.png",
+    "Attachments/Pasted image 20261110094001.png",
+    "Attachments/Pasted image 20261110093928.png",
+    "Attachments/Pasted image 20261110093516.png",
+    "Attachments/Pasted image 20261110093354.png",
+    "Session code/Session_6/output/code.exe",
+    "Session code/Session_6/output",
+    "Session code/Session_6/code.cpp",
+    "Session code/Session_6",
     "Session code/New folder",
+    "Lectures/5-Move constructor.md",
+    "Session code/Session_5/cpp_session/a.exe",
+    "Session code/Session_5/cpp_session/output/code.exe",
+    "Session code/Session_5/cpp_session/code.cpp",
+    "Session code/Session_5/cpp_session/output/main.exe",
+    "Session code/Session_5/cpp_session/main.exe",
+    "Lectures/8-.md",
+    "Lectures/4-Constructors & initialization list.md",
+    "Lectures/7-.md",
     "Lectures/3-Reference.md",
     "Lectures/2-Important keywords in C++.md",
-    "Session code/Session_3/code.cpp",
-    "Session code/Session_3",
-    "Session code/Session_2/code.cpp",
-    "Session code/Session_2",
-    "Lectures/1-Intro in C++.md",
-    "Session code/Session_1/output/code.exe"
+    "Lectures/1-Intro in C++.md"
   ]
 }
