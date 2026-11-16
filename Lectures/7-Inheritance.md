@@ -7,7 +7,6 @@
 ![[Pasted image 20261115104614.png]]
 
 
-
 ![[Pasted image 20261115105531.png]]
 
 الchild بياخد من الbase والspace بتاعه عادي ويزود عليه 
