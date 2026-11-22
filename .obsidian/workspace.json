@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/10-Smart pointer in Code.md",
+                "file": "Lectures/11-Functor & Lambda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-Smart pointer in Code"
+              "title": "11-Functor & Lambda"
             }
           }
         ]
@@ -187,19 +187,20 @@
   },
   "active": "3e5a2a7e48edd426",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20261120210933.png",
-    "Attachments/Pasted image 20261120210907.png",
-    "Attachments/Pasted image 20261120210828.png",
-    "Attachments/Pasted image 20261120210727.png",
-    "Attachments/Pasted image 20261120210711.png",
-    "Attachments/Pasted image 20261120210648.png",
-    "Attachments/Pasted image 20261120210605.png",
-    "Attachments/Pasted image 20261120210544.png",
-    "Attachments/Pasted image 20261120210518.png",
-    "Attachments/Pasted image 20261120210431.png",
-    "Attachments/Pasted image 20261120210128.png",
+    "Attachments/Pasted image 20261122101828.png",
+    "Attachments/Pasted image 20261121231247.png",
+    "Attachments/Pasted image 20261121231135.png",
+    "Attachments/Pasted image 20261121231116.png",
+    "Attachments/Pasted image 20261121231103.png",
+    "Attachments/Pasted image 20261121231051.png",
+    "Attachments/Pasted image 20261121230743.png",
+    "Lectures/Untitled.md",
+    "Lectures/11-Functor & Lambda.md",
+    "Attachments/Pasted image 20261121230326.png",
+    "Attachments/Pasted image 20261121225937.png",
+    "Attachments/Pasted image 20261121225921.png",
+    "Attachments/Pasted image 20261121225909.png",
     "Lectures/10-Smart pointer in Code.md",
-    "Lectures/11-.md",
     "Session code/Session_10/code.cpp",
     "Session code/Session_10/code",
     "Session code/Session_10",
